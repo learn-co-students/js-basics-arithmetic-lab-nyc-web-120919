@@ -418,7 +418,7 @@ rely on the test failure messages to guide your code.
 ![Good luck](https://user-images.githubusercontent.com/17556281/28846833-e671480c-76da-11e7-9285-17b5c592e065.gif)
 
 ## Resources
-- MDN
+- MDN 
   + [Basic math in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
   + [Arithmetic operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
   + [Operator precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
